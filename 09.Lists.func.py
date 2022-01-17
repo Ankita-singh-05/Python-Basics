@@ -1,3 +1,6 @@
+# LISTS
+# List are mutable
+
 lucky_numbers = [4 , 6, 27, 23, 43]
 friends = ["Kalyani", "Kalyani", "Shivani", "Geeta", "Shraddha", "Muskan"]
 
