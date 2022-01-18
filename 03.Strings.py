@@ -36,3 +36,16 @@ print(phrase.index("a"))
 
 # it will replace the giraffer with elephant
 print(phrase.replace("Giraffe", "Elephant"))
+
+
+# ESCAPE CHARACTERS 
+
+"""
+\n  - for new line
+\" - Double Quote
+\' - Single Quote
+\\ - Backslash
+\t - tab
+\b - Backspace
+\r - carriage return
+"""
